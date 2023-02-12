@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.title-section {
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+    color: #2F2F51;
+}
+.wraper {
+    background-color: #F2F2F2;;
+}
