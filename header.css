@@ -1,0 +1,41 @@
+.header {
+padding: 17px 0px;
+}
+.header-wraper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navigation__list {
+    display: flex;
+}
+.navigation__item {
+    margin-right: 40px;
+    font-style: normal;
+}
+.navigation__item-list {
+    text-decoration: none;
+    color: black;
+}
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 14px;
+    padding: 10px 20px;
+    border-radius: 3px;
+    border: none;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+.button-orange {
+    background-color: #EF7F04;
+}
+
+.button-blue {
+    background-color: #3B3A63;
+}
+
+.button__icon {
+    margin-right: 12px;
+}
